@@ -133,3 +133,56 @@ Seaborn
 Scikit-learn
 Jupyter Notebook
 
+Data Collection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Data Transformation
+(Melt & Pivot)
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Train-Test Split
+        │
+        ▼
+Feature Scaling
+        │
+        ▼
+Model Building
+        │
+        ▼
+Model Evaluation
+        │
+        ▼
+Visualization & Conclusions
+
+
+
+Key Findings
+Inflation and Government Debt significantly influence financial risk.
+Higher GDP Growth generally corresponds to lower financial risk.
+The Random Forest model captured complex relationships between economic indicators more effectively than Linear Regression.
+The custom Financial Risk Score provides an intuitive way to compare countries based on economic stability.
+
+📌 Conclusion
+
+This project successfully demonstrates an end-to-end Machine Learning pipeline using real-world World Bank data. By combining economic indicators with predictive modeling, the project provides insights into GDP Growth trends and financial risk across countries. The results highlight the usefulness of Machine Learning in economic analysis and support data-driven decision-making.
+
+📚 Future Improvements
+Include more countries and longer historical time periods.
+Incorporate additional macroeconomic indicators.
+Experiment with advanced regression algorithms such as XGBoost and Gradient Boosting.
+Build an interactive dashboard using Power BI or Streamlit.
+Deploy the trained model as a web application.
+👩‍💻 Author
+
+Nessa Kallikkad Madhu
+
+Mini Project: Global Economic Growth Prediction and Financial Risk Analysis Using World Bank Data
